@@ -1,0 +1,19 @@
+﻿{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "car"
+  },
+  "secret": "93hc9hje9qjcp9qjcpe3hjc98j3h9pqrhjp9qepc::12de02=1-32",
+  "emailFrom": "info@node-mysql-signup-verification-api.com",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "jannie47@ethereal.email",
+      "pass": "qp792HeJTpZjh1ySMr"
+    }
+  }
+}
